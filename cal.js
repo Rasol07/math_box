@@ -17,5 +17,3 @@ const multiply = (a, b) => {
 const divide_free = (a, b) => {
   return a / b;
 };
-
-const square = (a) => a * a;
