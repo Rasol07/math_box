@@ -17,3 +17,5 @@ const multiply = (a, b) => {
 const divide_premium = (a, b) => {
   return a / b;
 };
+
+const square = (a) => a * a;
